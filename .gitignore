@@ -1,0 +1,6 @@
+venv/
+dieta.db
+config.py
+.env
+__pycache__/
+*.pyc
